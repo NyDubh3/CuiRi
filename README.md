@@ -24,7 +24,7 @@ CuiRi 是一款红队专用免杀木马生成器，该工具可以通过红队�
 * 2.内置 go-strip 对 Go 生成的木马进行编译信息抹除与程序信息混淆
 * 3.工具本体只有 1 个 exe，搭配 Go 环境即可直接使用
 
-感谢 go-strip 作者 @boy-hack
+感谢 go-strip 作者 [@boy-hack](https://github.com/boy-hack "@boy-hack")
 
 ### 0x02 使用：
 
