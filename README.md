@@ -1,4 +1,4 @@
-# CuiRi 红队专用免杀木马生成工具
+# 摧日：CuiRi 红队专用免杀木马生成工具
 
 ![Author](https://img.shields.io/badge/作者-Dubh3-green)  ![language](https://img.shields.io/badge/开发语言-Golang-green) ![version](https://img.shields.io/badge/版本-1.0-brightgreen)
 
@@ -20,9 +20,9 @@ CuiRi 是一款红队专用免杀木马生成器，该工具可以通过红队�
 
 **特点**
 
-* 1.基于 Syscall 进行免杀，且随机混淆，可过所有杀软
+* 1.基于 Syscall 进行免杀，且随机混淆，可过几乎所有杀软
 * 2.内置 go-strip 对 Go 生成的木马进行编译信息抹除与程序信息混淆
-* 3.工具本体只有 1 个 exe，仅需搭配 Go 环境即可使用
+* 3.工具本体只有 1 个 exe，搭配 Go 环境即可直接使用
 
 感谢 go-strip 作者 @boy-hack
 
