@@ -28,7 +28,7 @@ CuiRi 是一款红队专用免杀木马生成器，该工具可以通过红队�
 
 ### 0x02 使用：
 
-从 [release](https://github.com/knownsec/ksubdomain/releases "release") 中下载二进制文件，并且在系统上安装 Go 语言环境，然后将 shellcode 保存到1个txt文件中，即可使用本工具生成免杀马。
+从 [release](https://github.com/NyDubh3/CuiRi/releases/tag/v1.0 "release") 中下载二进制文件，并且在系统上安装 Go 语言环境，然后将 shellcode 保存到1个txt文件中，即可使用本工具生成免杀马。
 
 ```bash
    ____   __    __    _____      ______      _____
