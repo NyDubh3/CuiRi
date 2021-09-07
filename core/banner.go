@@ -17,7 +17,7 @@ const Banner = `
 
 摧日：一款红队专用免杀木马生成器，基于shellcode生成绕过所有杀软的木马
 `
-const LinkAndAuthor = "https://github.com/0xdubh3/CuiRi   Author:Dubh3\n"
+const LinkAndAuthor = "https://github.com/NyDubh3/CuiRi   Author:Dubh3\n"
 const Warning = "警告：\n1.本工具仅用于企业内部测试，请勿用于任何非法犯罪活动，否则后果自负\n2.本工具需要Go语言环境，且使用时需要关闭杀软"
 
 func ShowBanner() {
