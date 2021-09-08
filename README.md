@@ -1,5 +1,5 @@
 # 摧日：CuiRi 红队专用免杀木马生成工具
-![Author](https://img.shields.io/badge/作者-Dubh3-green)  ![language](https://img.shields.io/badge/开发语言-Golang-green) ![version](https://img.shields.io/badge/版本-1.0-brightgreen)
+![Author](https://img.shields.io/badge/作者-Dubh3-green)  ![language](https://img.shields.io/badge/开发语言-Golang-green) ![version](https://img.shields.io/badge/版本-1.0-brightgreen)![开放协议](https://img.shields.io/badge/%E5%BC%80%E6%94%BE%E5%8D%8F%E8%AE%AE-Apache%202.0-brightgreen.svg)
 
 ### 0x01 简介：
 
