@@ -1,5 +1,6 @@
 # 摧日：CuiRi 红队专用免杀木马生成工具
 
+![-w1325](https://z3.ax1x.com/2021/09/08/hTxsWd.jpg)
 ![Author](https://img.shields.io/badge/作者-Dubh3-green)  ![language](https://img.shields.io/badge/开发语言-Golang-green) ![version](https://img.shields.io/badge/版本-1.0-brightgreen)
 
 ### 0x01 简介：
